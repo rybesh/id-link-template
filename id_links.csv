@@ -1,6 +1,6 @@
 start_id,link_rel,end_id
-http://www.inaturalist.org/observations/2479514,usedBy,http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514
-http://www.inaturalist.org/observations/2479514,usedBy,http://www.gbif.org/occurrence/1227752453
+http://www.inaturalist.org/observations/2479514,refers,http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514
+http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/occurrence/1227752453
 http://www.gbif.org/occurrence/1227752453,refers,http://www.gbif.org/species/6163936
 http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://eol.org/pages/328583
 http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/species/6163936
