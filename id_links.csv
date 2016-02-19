@@ -1,4 +1,6 @@
 start_id,link_rel,end_id
+https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
+http://www.gbif.org/occurrence/1038963366,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
 http://www.inaturalist.org/observations/2479514,refers,http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514
 http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/occurrence/1227752453
 http://www.gbif.org/occurrence/1227752453,refers,http://www.gbif.org/species/6163936
