@@ -1,9 +1,9 @@
 start_id,link_rel,end_id
 https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
 http://www.gbif.org/occurrence/1038963366,refers,http://collections.peabody.yale.edu/search/Record/YU.051351
-6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d
-6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://www.gbif.org/occurrence/1038963366
-6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://collections.peabody.yale.edu/search/Record/YU.051351
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,https://www.idigbio.org/portal/records/7faffcae-60f9-4ad7-89b3-d92f1b57ef6d
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://www.gbif.org/occurrence/1038963366
+urn:uuid:6b93f2a4-603e-426f-add4-d2a1c096b368,foundIn,http://collections.peabody.yale.edu/search/Record/YU.051351
 ,,
 http://www.inaturalist.org/observations/2479514,refers,http://www.globalbioticinteractions.org/?accordingTo=http://www.inaturalist.org/observations/2479514
 http://www.inaturalist.org/observations/2479514,refers,http://www.gbif.org/occurrence/1227752453
